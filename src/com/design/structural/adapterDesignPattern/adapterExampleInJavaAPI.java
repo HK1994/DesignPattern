@@ -1,12 +1,11 @@
 package com.design.structural.adapterDesignPattern;
 
-import com.sun.org.apache.xpath.internal.SourceTree;
-
 import java.util.Arrays;
 import java.util.List;
 
 /**
  * Created by hemantkumar on 2/6/2018.
+ * Adapter Java API Example
  */
 public class adapterExampleInJavaAPI {
     public static void main(String[] args) {

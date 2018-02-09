@@ -14,7 +14,7 @@ public class StudentCSVAdapter implements Student {
 
     @Override
     public String getId() {
-        return instance.getId()+"" ;
+        return String.valueOf(instance.getId()) ;
     }
 
     @Override

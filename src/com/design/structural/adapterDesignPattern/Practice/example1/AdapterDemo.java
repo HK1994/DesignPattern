@@ -4,8 +4,9 @@ import java.util.List;
 
 /**
  * Created by hemantkumar on 2/7/2018.
+ *
  */
-public class AdapterDemo {
+class AdapterDemo {
     public static void main(String[] args) {
 
         StudentClient client = new StudentClient();
